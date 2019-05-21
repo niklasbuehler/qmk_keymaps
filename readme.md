@@ -1,5 +1,4 @@
 # Niklas' TADA68 layout
-## Trying to get the most out of this board in terms of controlling i3wm, vim and such.
 
 Remember to change keyboards/tada68/config.h by yourself!<br />
 
