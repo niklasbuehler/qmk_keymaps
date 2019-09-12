@@ -1,6 +1,6 @@
 # Niklas' TADA68 layout
 
-Remember to change keyboards/tada68/config.h by yourself!<br />
+[How to build and flash](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tada68)
 
 ### Major changes:
 #### Keymap _BL: (Base Layer) Default Layer
